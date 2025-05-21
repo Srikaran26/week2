@@ -14,7 +14,6 @@ Welcome to the repository for Week 2 of our Java learning journey. This week div
   - [Day 6: Access Modifiers, Static, and Final Keywords](#day-6-access-modifiers-static-and-final-keywords)
 - [Prerequisites](#prerequisites)
 - [How to Use This Repository](#how-to-use-this-repository)
-- [Next Steps](#next-steps)
 
 ## Overview
 
